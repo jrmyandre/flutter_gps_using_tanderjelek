@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142862392331",
+    "firebase_url": "https://fluttergps-d78d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttergps-d78d5",
+    "storage_bucket": "fluttergps-d78d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142862392331:android:a7ceec375680e1a1f67b0e",
+        "android_client_info": {
+          "package_name": "com.example.tanderjelek3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142862392331-jt5of1patrh0dqbr2cudaic3d686l0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjn-GxEmvPteRNkLTBlyXT0aHXeS7bQL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142862392331-jt5of1patrh0dqbr2cudaic3d686l0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
